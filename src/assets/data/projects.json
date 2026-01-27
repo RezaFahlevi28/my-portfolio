@@ -1,0 +1,144 @@
+[
+    {
+        "slug": "nicless",
+        "cover": "nicless1.png",
+        "name": "Nicless",
+        "client": "Nicless",
+        "date": "September 2025",
+        "deskripsi": "NicLess is a web-based dashboard application designed to support users in quitting smoking through progress tracking, daily check-ins, and health education. The platform features real-time smoke-free duration tracking, estimated money savings, mood tracking, daily tap-ins, and health tips filtered by withdrawal symptoms. With a clean and intuitive interface, NicLess aims to increase self-awareness, consistency, and motivation toward a healthier, smoke-free lifestyle.",
+        "tools": [
+            "tailwind.png",
+            "javascript.png",
+            "php.png",
+            "laravel.png",
+            "MySQL.png"
+        ],
+        "porto": [
+            "nicless1.png",
+            "nicless2.png",
+            "nicless3.png"
+        ],
+        "link": "https://www.nicless.web.id"
+    },
+    {
+        "slug": "company-profile",
+        "cover": "kitakreatif1.png",
+        "name": "Company Profile",
+        "client": "Kita Kreatif",
+        "date": "September 2023",
+        "deskripsi": "Kita Kreatif is a research center team that aims to become an innovative, independent, and leading research center in the fields of Marketing Communication, Tourism, and Creative Economy.",
+        "tools": [
+            "bootstrap.png",
+            "javascript.png",
+            "php.png",
+            "laravel.png",
+            "MySQL.png"
+        ],
+        "porto": [
+            "kitakreatif1.png",
+            "kitakreatif2.png",
+            "kitakreatif3.png"
+        ],
+        "link": "https://kitakreatif.usk.ac.id/"
+    },
+    {
+        "slug": "autiscan",
+        "cover": "autiscan1.png",
+        "name": "AutiScan",
+        "client": "-",
+        "date": "February 2024",
+        "deskripsi": "AutiScan is an application developed to detect autism in children. Users only need to input a picture of the child's face, and the system will automatically classify it and return the results in a format that is easy for users to understand.",
+        "tools": [
+            "figma.png",
+            "android.png",
+            "flutter.png",
+            "tensorflow.png"
+        ],
+        "porto": [
+            "autiscan1.png",
+            "autiscan2.png",
+            "autiscan3.png"
+        ],
+        "link": ""
+    },
+    {
+        "slug": "sispustal",
+        "cover": "sispustal1.png",
+        "name": "Sispustal",
+        "client": "KODAM IM",
+        "date": "November 2024",
+        "deskripsi": "Digital Library System to simplify the library development process and provide convenience to library users in facilitating the process of searching for reading materials.",
+        "tools": [
+            "bootstrap.png",
+            "javascript.png",
+            "php.png",
+            "laravel.png",
+            "MySQL.png"
+        ],
+        "porto": [
+            "sispustal1.png",
+            "sispustal2.png",
+            "sispustal3.png"
+        ],
+        "link": ""
+    },
+    {
+        "slug": "sikelim",
+        "cover": "sikelim1.png",
+        "name": "Sikelim",
+        "client": "RS KESDAM",
+        "date": "November 2024",
+        "deskripsi": "The Iskandar Muda Waste Management Information System is a web-based application designed to facilitate waste management and monitoring in the Iskandar Muda environment. This system aims to improve efficiency, transparency, and accuracy in the management of medical and non-medical waste.",
+        "tools": [
+            "bootstrap.png",
+            "javascript.png",
+            "php.png",
+            "laravel.png",
+            "MySQL.png"
+        ],
+        "porto": [
+            "sikelim1.png",
+            "sikelim2.png",
+            "sikelim3.png"
+        ],
+        "link": ""
+    },
+    {
+        "slug": "note-app",
+        "cover": "notesapp1.png",
+        "name": "Note App",
+        "client": "-",
+        "date": "November 2024",
+        "deskripsi": "Notes App is a web-based note-taking application that allows users to create, manage, and store notes practically and efficiently.",
+        "tools": [
+            "tailwind.png",
+            "javascript.png",
+            "vue.png"
+        ],
+        "porto": [
+            "notesapp1.png",
+            "notesapp2.png",
+            "notesapp3.png"
+        ],
+        "link": ""
+    },
+    {
+        "slug": "bookshelf-app",
+        "cover": "bookshelf1.png",
+        "name": "BookShelf App",
+        "client": "-",
+        "date": "November 2024",
+        "deskripsi": "Bookshelf App is a website designed to store and manage book data, both those that have been read and those that are still on the reading list.",
+        "tools": [
+            "tailwind.png",
+            "javascript.png",
+            "vue.png"
+        ],
+        "porto": [
+            "bookshelf1.png",
+            "bookshelf2.png",
+            "bookshelf3.png"
+        ],
+        "link": ""
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Belajar Dasar Pemrograman Web",
+        "issuer": "Dicoding Indonesia",
+        "issueDate": "Sep 2024",
+        "logo": "dicoding_logo.jpg",
+        "link": "https://www.dicoding.com/certificates/MRZME2MY0PYQ"
+    },
+    {
+        "id": 2,
+        "name": "Belajar Dasar Pemrograman JavaScript",
+        "issuer": "Dicoding Indonesia",
+        "issueDate": "Sep 2024",
+        "logo": "dicoding_logo.jpg",
+        "link": "https://www.dicoding.com/certificates/EYX4J7G96ZDL"
+    },
+    {
+        "id": 3,
+        "name": "Belajar Membuat Front-End Web untuk Pemula",
+        "issuer": "Dicoding Indonesia",
+        "issueDate": "Okt 2024",
+        "logo": "dicoding_logo.jpg",
+        "link": "https://www.dicoding.com/certificates/07Z648K0RPQR"
+    },
+    {
+        "id": 4,
+        "name": "Belajar Fundamental Front-End Web Development",
+        "issuer": "Dicoding Indonesia",
+        "issueDate": "Feb 2025",
+        "logo": "dicoding_logo.jpg",
+        "link": "https://www.dicoding.com/certificates/81P2L3QNJZOY"
+    },
+    {
+        "id": 5,
+        "name": "Belajar Pengembangan Web Intermediate",
+        "issuer": "Dicoding Indonesia",
+        "issueDate": "Jul 2025",
+        "logo": "dicoding_logo.jpg",
+        "link": "https://www.dicoding.com/certificates/RVZKG932OXD5"
+    }
+]

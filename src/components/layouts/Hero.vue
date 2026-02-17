@@ -15,7 +15,7 @@ import { Icon } from "@iconify/vue";
             Reza Fahlevi, S.T.
           </h2>
           <p class="text-bodyText dark:text-bodyDark text-sm">
-            Software Developer
+            Web Developer
           </p>
         </div>
       </section>
@@ -30,19 +30,19 @@ import { Icon } from "@iconify/vue";
             great with you
           </p> -->
           <p class="text-bodyText text-sm dark:text-bodyDark">
-            A Web Developer and Data Manager based in Indonesia with experience
+            I am a Web Developer based in Indonesia with experience
             in developing and maintaining web-based systems in academic and
             organizational environments. I work with modern web technologies and
             relational databases, focusing on developing responsive, scalable,
             and maintainable applications.
           </p>
           <p class="text-bodyText text-sm dark:text-bodyDark mt-1">
-            In addition to web development, I have experience in managing and
-            validating data, integrating APIs, and optimizing system workflows
-            to ensure data accuracy and system reliability. I enjoy working on
-            projects that require a balance between technical implementation,
-            problem-solving, and long-term system sustainability, and I am open
-            to collaboration on meaningful digital solutions.
+            I have experience in managing and validating data, integrating APIs,
+            and optimizing system workflows to ensure data accuracy and system
+            reliability. I enjoy working on projects that require a balance
+            between technical implementation, problem-solving, and long-term
+            system sustainability, and I am open to collaboration on meaningful
+            digital solutions.
           </p>
         </div>
         <div class="mt-3 flex flex-col gap-1">

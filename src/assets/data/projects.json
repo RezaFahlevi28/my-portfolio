@@ -62,6 +62,29 @@
         "link": ""
     },
     {
+        "slug": "satgas-pks-aceh",
+        "cover": "satgaspksaceh1.png",
+        "name": "Satgas PKS Aceh",
+        "client": "PKS Aceh",
+        "date": "Januari 2026",
+        "deskripsi": "The Aceh PKS Task Force is a website developed to support the work of the Aceh PKS Task Force. This system is designed to facilitate the management of data on aid distribution and information related to the work of the Aceh PKS Task Force.",
+        "tools": [
+            "figma.png",
+            "tailwind.png",
+            "javascript.png",
+            "php.png",
+            "laravel.png",
+            "vite.png",
+            "MySQL.png"
+        ],
+        "porto": [
+            "satgaspksaceh1.png",
+            "satgaspksaceh2.png",
+            "satgaspksaceh3.png"
+        ],
+        "link": ""
+    },
+    {
         "slug": "sispustal",
         "cover": "sispustal1.png",
         "name": "Sispustal",
@@ -141,4 +164,5 @@
         ],
         "link": ""
     }
+
 ]

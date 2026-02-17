@@ -12,7 +12,10 @@
       </RouterLink>
 
       <!-- Mobile Toggle -->
-      <button class="md:hidden z-30 text-2xl" @click="isMenuOpen = !isMenuOpen">
+      <button
+        class="md:hidden z-30 text-2xl text-[#0B0A2F] dark:text-white transition-colors"
+        @click="isMenuOpen = !isMenuOpen"
+      >
         <Icon
           :icon="
             isMenuOpen ? 'material-symbols:close' : 'material-symbols:menu'
@@ -85,7 +88,7 @@
           <!-- Theme Toggle Mobile -->
           <button
             @click="toggleDarkMenu"
-            class="mt-2 p-2 w-full border rounded-lg flex items-center justify-center gap-2"
+            class="mt-2 p-2 w-full border border-gray-200 dark:border-[#1F2937] rounded-lg flex items-center justify-center gap-2 text-gray-800 dark:text-white hover:bg-gray-50 dark:hover:bg-white/5 transition-all active:scale-95"
           >
             <Icon
               :icon="

@@ -51,7 +51,7 @@ const works = ref([
   {
     period: "Aug 2025 - Present",
     logo: "usk.png",
-    jobName: "Data Manager",
+    jobName: "IT Staff",
     company: "Syiah Kuala University - Contract",
     description:
       "Managing MBKM academic and operational data, validating and updating data, and maintaining the USK MBKM website to ensure optimal performance.",

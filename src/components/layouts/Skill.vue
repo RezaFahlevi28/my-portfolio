@@ -66,15 +66,15 @@ const skillGroups = ref([
       { name: "Responsive Design" },
     ],
   },
-  {
-    title: "Soft Skills",
-    showIcon: false,
-    items: [
-      { name: "Strong communication," },
-      { name: "Problem-solving," },
-      { name: "Attention to detail," },
-      { name: "Time management" },
-    ],
-  },
+  // {
+  //   title: "Soft Skills",
+  //   showIcon: false,
+  //   items: [
+  //     { name: "Strong communication," },
+  //     { name: "Problem-solving," },
+  //     { name: "Attention to detail," },
+  //     { name: "Time management" },
+  //   ],
+  // },
 ]);
 </script>
